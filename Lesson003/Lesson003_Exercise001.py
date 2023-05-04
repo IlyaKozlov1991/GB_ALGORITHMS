@@ -83,8 +83,8 @@ doublelist.insert_start(6)
 
 doublelist.print_list()
 
-doublelist.bubble_sort()
-# doublelist.reverse_list()
+# doublelist.bubble_sort()
+doublelist.reverse_list()
 
 print()
 doublelist.print_list()
